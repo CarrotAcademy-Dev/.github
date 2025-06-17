@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.carrotacademy.com" target="_blank">
-    <img src="profile/logo.png" alt="Carrot Academy Logo" width="350"/>
+    <img src="https://github.com/CarrotAcademy-Dev/.github/blob/9f865edf195e9dbc6d0e58b64da172e394e37a4a/profile/logo.png" alt="Carrot Academy Logo" width="350"/>
   </a>
 </p>
 
